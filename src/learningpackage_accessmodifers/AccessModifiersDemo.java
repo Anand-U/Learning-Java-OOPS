@@ -28,7 +28,7 @@ public class AccessModifiersDemo {
 	
 }
 	
-	class accessallmodifiers{
+	class  accessallmodifiers{
 		
 		//data Members
 		private int Accountnumber=404667;
